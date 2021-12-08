@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KuzmiCz85
+- 👋 Hi, I’m KuzmiCz
 - 👀 I’m beggining web developer
 - 🌱 I’m currently learning PHP, MySQL
 - 💞️ I’m open to work
